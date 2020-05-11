@@ -15,6 +15,10 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益 404
+  workspace: 工作空间
+  gate: 任意门
+  skillmap: 技能树
+  quotes: 引言
 sidebar:
   overview: 站点概览
   toc: 文章目录
